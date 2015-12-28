@@ -1,0 +1,36 @@
+﻿Build started 7/12/2013 4:11:51 PM.
+     1>Project "C:\Users\David\Desktop\New folder\GSP420_Fairweather_BlockPuzzle\GSP420_Fairweather_BlockPuzzle.vcxproj" on node 2 (rebuild target(s)).
+     1>PrepareForBuild:
+         Creating directory "C:\Users\David\Desktop\New folder\Debug\".
+       InitializeBuildStatus:
+         Creating "Debug\GSP420_Fairweather_BlockPuzzle.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp MapController.cpp
+         MapController.cpp
+         main.cpp
+         Generating Code...
+     1>c:\users\david\desktop\new folder\gsp420_fairweather_blockpuzzle\resourcemanager.h(80): warning C4715: 'ResourceManager::getMap' : not all control paths return a value
+     1>c:\users\david\desktop\new folder\gsp420_fairweather_blockpuzzle\resourcemanager.h(59): warning C4715: 'ResourceManager::loadResource' : not all control paths return a value
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\GSP420_Fairweather_BlockPuzzle.exe.embed.manifest.res" Debug\GSP420_Fairweather_BlockPuzzle_manifest.rc 
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\David\Desktop\New folder\Debug\GSP420_Fairweather_BlockPuzzle.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\GSP420_Fairweather_BlockPuzzle.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\David\Desktop\New folder\Debug\GSP420_Fairweather_BlockPuzzle.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\David\Desktop\New folder\Debug\GSP420_Fairweather_BlockPuzzle.lib" /MACHINE:X86 Debug\GSP420_Fairweather_BlockPuzzle.exe.embed.manifest.res
+         Debug\main.obj
+         Debug\MapController.obj
+       Manifest:
+         Deleting file "Debug\GSP420_Fairweather_BlockPuzzle.exe.embed.manifest".
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\GSP420_Fairweather_BlockPuzzle.exe.embed.manifest" /manifest Debug\GSP420_Fairweather_BlockPuzzle.exe.intermediate.manifest
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\GSP420_Fairweather_BlockPuzzle.exe.embed.manifest.res" Debug\GSP420_Fairweather_BlockPuzzle_manifest.rc 
+       LinkEmbedManifest:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\David\Desktop\New folder\Debug\GSP420_Fairweather_BlockPuzzle.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\GSP420_Fairweather_BlockPuzzle.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\David\Desktop\New folder\Debug\GSP420_Fairweather_BlockPuzzle.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\David\Desktop\New folder\Debug\GSP420_Fairweather_BlockPuzzle.lib" /MACHINE:X86 Debug\GSP420_Fairweather_BlockPuzzle.exe.embed.manifest.res
+         Debug\main.obj
+         Debug\MapController.obj
+         GSP420_Fairweather_BlockPuzzle.vcxproj -> C:\Users\David\Desktop\New folder\Debug\GSP420_Fairweather_BlockPuzzle.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\GSP420_Fairweather_BlockPuzzle.unsuccessfulbuild".
+         Touching "Debug\GSP420_Fairweather_BlockPuzzle.lastbuildstate".
+     1>Done Building Project "C:\Users\David\Desktop\New folder\GSP420_Fairweather_BlockPuzzle\GSP420_Fairweather_BlockPuzzle.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.33

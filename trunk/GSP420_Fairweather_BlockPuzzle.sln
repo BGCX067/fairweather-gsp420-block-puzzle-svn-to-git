@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GSP420_Fairweather_BlockPuzzle", "GSP420_Fairweather_BlockPuzzle\GSP420_Fairweather_BlockPuzzle.vcxproj", "{A1825917-C9B4-4AAA-991D-674A6D45EDE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1825917-C9B4-4AAA-991D-674A6D45EDE8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A1825917-C9B4-4AAA-991D-674A6D45EDE8}.Debug|Win32.Build.0 = Debug|Win32
+		{A1825917-C9B4-4AAA-991D-674A6D45EDE8}.Release|Win32.ActiveCfg = Release|Win32
+		{A1825917-C9B4-4AAA-991D-674A6D45EDE8}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
